@@ -1,5 +1,5 @@
 #pragma once
-// шрифты для вывода текста
+// шрифты для вывода текста (fonts for text output)
 const uint8_t _charMap[][5] PROGMEM = {
     {0x00, 0x00, 0x00, 0x00, 0x00}, //   0x20 32
     {0x00, 0x00, 0x6f, 0x00, 0x00}, // ! 0x21 33
